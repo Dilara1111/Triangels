@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\C# YouTube\Triangels\obj\Debug\net5.0\Triangels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\C# YouTube\Triangels\obj\Debug\net5.0\Triangels.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\C# YouTube\Triangels\obj\Debug\net5.0\Triangels.AssemblyInfo.cs
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\C# YouTube\Triangels\obj\Debug\net5.0\Triangels.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\C# YouTube\Triangels\bin\Debug\net5.0\Triangels.exe
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\C# YouTube\Triangels\bin\Debug\net5.0\Triangels.deps.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\C# YouTube\Triangels\bin\Debug\net5.0\Triangels.runtimeconfig.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\C# YouTube\Triangels\bin\Debug\net5.0\Triangels.runtimeconfig.dev.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\C# YouTube\Triangels\bin\Debug\net5.0\Triangels.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\C# YouTube\Triangels\bin\Debug\net5.0\Triangels.pdb
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\C# YouTube\Triangels\obj\Debug\net5.0\Triangels.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\C# YouTube\Triangels\obj\Debug\net5.0\refint\Triangels.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\C# YouTube\Triangels\obj\Debug\net5.0\Triangels.pdb
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\C# YouTube\Triangels\obj\Debug\net5.0\Triangels.genruntimeconfig.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\C# YouTube\Triangels\obj\Debug\net5.0\ref\Triangels.dll
